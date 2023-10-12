@@ -1,6 +1,8 @@
 # SDVX-AC-Case
 3d printed case for SDVX controller, supports generic chinese rotary encoder and ac knob bracket
 
+Back and Main body in stl folder needs to be mirrored for other side
+
 ![pic1](pic/pic1.jpg)
 
 ![pic2](pic/pic2.jpg)
